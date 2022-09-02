@@ -1,4 +1,0 @@
-tensorflow==1.14.0
-stable-baselines==2.10.2
-ursina==4.1.1
-psutil==5.9.0

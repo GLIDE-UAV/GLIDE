@@ -1,0 +1,9 @@
+.DS_Store
+logs/
+bin/
+/**/__pycache__
+/**/.ipynb_checkpoints
+temp.txt
+temp.py
+model/
+temp.ipynb
