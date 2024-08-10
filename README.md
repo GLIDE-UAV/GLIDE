@@ -36,14 +36,7 @@ Next, go to the C-GLIDE or D_GLIDE folder and follow the steps to run the code..
 
 
 
- # Contributors
-
-- Prasenjit Karmakar <prasenjitk@cse.iitkgp.ac.in>
-- Divija Swetha Gadiraju  <dgadiraj@purdue.edu>
-- Vedant Patel
-- Dr. Vijay K. Shah
-- Dr. V. Laitha
-- Prof Vaneet Aggarwal
+ 
 
 # License
 [MIT LICENSE](LICENSE)
